@@ -1,0 +1,35 @@
+{
+  "last_updated": "",
+  "categories": [
+    {
+      "slug": "adu_wa",
+      "label": "ADU Plays \u2014 Washington (HB 1337)",
+      "count": 0,
+      "top_score": 0
+    },
+    {
+      "slug": "adu_fl",
+      "label": "ADU Plays \u2014 Florida (SB 48)",
+      "count": 0,
+      "top_score": 0
+    },
+    {
+      "slug": "flip",
+      "label": "Fix-and-Flip Candidates",
+      "count": 0,
+      "top_score": 0
+    },
+    {
+      "slug": "value_add",
+      "label": "Value-Add / BRRRR Plays",
+      "count": 0,
+      "top_score": 0
+    },
+    {
+      "slug": "fsbo",
+      "label": "For Sale By Owner",
+      "count": 0,
+      "top_score": 0
+    }
+  ]
+}
