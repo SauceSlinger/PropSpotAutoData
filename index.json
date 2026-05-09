@@ -2,32 +2,32 @@
   "last_updated": "",
   "categories": [
     {
-      "slug": "adu_wa",
-      "label": "ADU Plays \u2014 Washington (HB 1337)",
+      "slug": "brrrr",
+      "label": "BRRRR Strategy",
       "count": 0,
       "top_score": 0
     },
     {
-      "slug": "adu_fl",
-      "label": "ADU Plays \u2014 Florida (SB 48)",
+      "slug": "house_hack",
+      "label": "House Hack",
       "count": 0,
       "top_score": 0
     },
     {
-      "slug": "flip",
-      "label": "Fix-and-Flip Candidates",
+      "slug": "vacant_land",
+      "label": "Vacant Land",
       "count": 0,
       "top_score": 0
     },
     {
-      "slug": "value_add",
-      "label": "Value-Add / BRRRR Plays",
+      "slug": "multi_family",
+      "label": "Multi-Family",
       "count": 0,
       "top_score": 0
     },
     {
-      "slug": "fsbo",
-      "label": "For Sale By Owner",
+      "slug": "commercial",
+      "label": "Commercial",
       "count": 0,
       "top_score": 0
     }
